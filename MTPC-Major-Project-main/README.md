@@ -275,15 +275,12 @@ The objective of this project is to provide a complete digital solution for mana
 
 # 👨‍💻 Developed By
 
-**Sreerang Prasad**
+**Ananthasivan S**
 
 MCA Student
 
-Full Stack & Web Developer
 
-GitHub:
 
-https://github.com/Hazy-Arrow
 
 ---
 
